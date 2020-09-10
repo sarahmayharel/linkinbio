@@ -1,0 +1,45 @@
+	html {
+		height: 100%;
+		background-image: linear-gradient(pink, lightgoldenrodyellow);
+	}
+	body {
+		text-align: center;
+		font-family: 'Open Sans', sans-serif;
+	}
+	h2 {
+		font-family: 'Oswald', sans-serif;
+		font-size: 48px;
+	}
+	.icon {
+		max-width: 150px;
+		display: inline;
+		border-radius: 50%;
+	}
+	.btn {
+		background-color: #ffffff;
+		border: none;
+		color: orange;
+		padding: 15px 32px;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 24px;
+		border-radius: 20px;
+	}
+	#btndiv {
+		padding-top: 50px;
+	}
+	.btn:hover {
+		background-color: #efc385;
+		color: white;
+	}
+	a {
+		font-family: 'Open Sans', sans-serif;
+		font-weight: bold;
+	}
+	a:hover {
+		opacity: 80%;
+	}
+	.socialicon {
+		max-width: 20px;
+		opacity: 50%;
+	}
